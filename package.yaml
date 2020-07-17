@@ -18,6 +18,8 @@ dependencies:
 - base >= 4.7 && < 5
 - repa
 - repa-io
+- split
+- time
 
 library:
   source-dirs: src
